@@ -1,0 +1,6 @@
+{
+  "name": "GORILLA AI OS — ระบบบริหารร้านมือถืออัตโนมัติ",
+  "description": "ระบบบริหารร้านมือถืออัจฉริยะ ผสาน AI แอดมินตอบแชทอัตโนมัติ คิวซ่อมแจ้งเตือน LINE เช็คสต็อกเรียลไทม์ และ Prompt สำเร็จรูปสำหรับ n8n",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
